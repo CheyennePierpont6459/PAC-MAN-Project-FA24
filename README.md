@@ -13,7 +13,8 @@ power ups. These power ups would make the Pac-man run faster and there would be 
 power up. The Super Pellet you would race against the other Pac-man player and after you
 acquire the Super Pellet. You would watch the ghost, and the other Pac-man player run from you
 because you don’t know exactly what power up you could get.
-2
+
+
 Updated Project Status report:
 - Ensure that everyone has a device Player one should have a laptop, Player two
 should have a labtop. Both people need to open a link to a browser: coming soon.
