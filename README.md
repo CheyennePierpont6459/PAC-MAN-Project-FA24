@@ -1,5 +1,5 @@
 # PAC-MAN-Project-FA24
-This is a group project for fundamentals of Computer Networks at Indiana University Southeast. Cheyenne Pierpont & and Rory Stiff 
+This is a group project for fundamentals of Computer Networks at Indiana University Southeast. Cheyenne Pierpont &  Rory Stiff 
 Project Outline: 
   
 Our Project proposal is to make a network gamed connected through two laptops. Is a
